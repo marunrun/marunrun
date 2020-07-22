@@ -1,8 +1,9 @@
 ### Hi I'm Marun 👋
 
-<img src="http://img.runrun520.cn/005TGG6vly1gaf4l1nltvg306c06cdx5.gif" align="right" height="150">
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
 
-<br>
-![Marun's github stats](https://github-readme-stats.vercel.app/api?username=marunrun&show_icons=true&hide_border=true)
-<br><br>
+
+
+
+![Marun's github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
