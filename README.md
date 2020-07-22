@@ -1,7 +1,6 @@
 ### Hi I'm Marun 👋
 
-<img width = "35%" align="right" alt="GIF" height="300px" src="http://img.runrun520.cn/005TGG6vly1gaf4l1nltvg306c06cdx5.gif" />
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
 
